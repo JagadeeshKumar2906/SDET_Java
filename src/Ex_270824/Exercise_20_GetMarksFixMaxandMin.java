@@ -2,7 +2,7 @@ package Ex_270824;
 
 import java.util.Scanner;
 
-public class Exercise_11_GetMarksFixMaxandMin {
+public class Exercise_20_GetMarksFixMaxandMin {
     public static void main(String[] args) {
         System.out.println("Enter Your Marks");
         Scanner sc = new Scanner(System.in);

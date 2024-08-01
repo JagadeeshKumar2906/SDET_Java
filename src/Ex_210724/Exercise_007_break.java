@@ -1,6 +1,6 @@
 package Ex_210724;
 
-public class Exercise_001_break {
+public class Exercise_007_break {
     public static void main(String[] args) {
         for (int i = 0; i <=10 ; i++) {
 

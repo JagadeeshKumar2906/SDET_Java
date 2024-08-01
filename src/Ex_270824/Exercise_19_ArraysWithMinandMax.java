@@ -1,6 +1,6 @@
 package Ex_270824;
 
-public class Exercise_10_ArraysWithMinandMax
+public class Exercise_19_ArraysWithMinandMax
 {
     public static void main(String[] args)
     {

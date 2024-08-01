@@ -2,7 +2,7 @@ package Ex_270824;
 
 import java.util.Scanner;
 
-public class Exercise_06_ArrayswithmultipleInputs {
+public class Exercise_16_ArrayswithmultipleInputs {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] a = new int[5];

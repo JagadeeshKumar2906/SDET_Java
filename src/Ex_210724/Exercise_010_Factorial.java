@@ -2,7 +2,7 @@ package Ex_210724;
 
 import java.util.Scanner;
 
-public class Exercise_004_Factorial {
+public class Exercise_010_Factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your factorial Number:");

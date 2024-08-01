@@ -1,6 +1,6 @@
 package Ex_270824;
 
-public class Exercise_07_ArrayswithMaxSalaries
+public class Exercise_17_ArrayswithMaxSalaries
 {
     public static void main(String[] args)
     {

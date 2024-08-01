@@ -1,6 +1,6 @@
 package Ex_280824;
 
-public class Lab02_LeftTriangle
+public class Lab_02_LeftTriangle
 {
     public static void main(String[] args)
     {

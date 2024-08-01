@@ -2,7 +2,7 @@ package Ex_280824;
 
 import java.util.Scanner;
 
-public class Lab04_LeapYear {
+public class Lab_04_LeapYear {
     public static void main(String[] args) {
         System.out.println("Enter your year:");
         int year;

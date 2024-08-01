@@ -2,7 +2,7 @@ package Ex_270824;
 
 import java.util.Scanner;
 
-public class Exercise_03_ArraysWithScanner {
+public class Exercise_13_ArraysWithScanner {
     public static void main(String[] args) {
         int [] marks = new int[5];
         System.out.println("Enter the 1st mark:");

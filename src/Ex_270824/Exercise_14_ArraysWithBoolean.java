@@ -1,10 +1,8 @@
 package Ex_270824;
 
-import javax.swing.*;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Exercise_04_ArraysWithBoolean
+public class Exercise_14_ArraysWithBoolean
 {
     public static void main(String[] args)
     {

@@ -1,6 +1,6 @@
 package Ex_270824;
 
-public class Exercise_02_Arrays_new {
+public class Exercise_12_Arrays_new {
     public static void main(String[] args) {
         //datatype[] arrayname;
         int[] marks = new int[3];
