@@ -1,14 +1,21 @@
 package Ex_280824;
 
 public class Lab_03_SecondHighestSalary {
-    public static void main(String[] args) {
-        int[] Salary ={7,10,4,13,25,18,9,8,17,35};
-        int max =1;
-        for (int i = 0; i < Salary.length ; i++)
-        {
-            if(Salary[i] >max)
-            max=Salary[i];
+    public static void main(String args[]){
+        int temp, size;
+        int array[] = {10, 20, 25, 63, 96, 84};
+        size = array.length;
+
+        for(int i = 0; i<size; i++ ){
+            for(int j = i+1; j<size; j++){
+
+                if(array[i]>array[j]){
+                    temp = array[i];
+                    array[i] = array[j];
+                    array[j] = temp;
+                }
+            }
         }
-        System.out.println("The Maximum Salary is:"+max);
+        System.out.println("Third second largest number is:: "+array[size-2]);
     }
 }
