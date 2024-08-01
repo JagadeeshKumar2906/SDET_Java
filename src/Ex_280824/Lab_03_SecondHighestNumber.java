@@ -1,6 +1,6 @@
 package Ex_280824;
 
-public class Lab_03_SecondHighestSalary {
+public class Lab_03_SecondHighestNumber {
     public static void main(String args[]){
         int temp, size;
         int array[] = {10, 20, 25, 63, 96, 84};
@@ -19,3 +19,4 @@ public class Lab_03_SecondHighestSalary {
         System.out.println("Third second largest number is:: "+array[size-2]);
     }
 }
+
