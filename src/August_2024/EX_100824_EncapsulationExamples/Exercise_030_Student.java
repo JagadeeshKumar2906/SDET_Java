@@ -1,8 +1,8 @@
 package August_2024.EX_100824_EncapsulationExamples;
 
-public class Student {
+public class Exercise_030_Student {
     public static void main(String[] args) {
-        Principal pal = new Principal("Jagadeesh", 8608619345l);
+        Exercise_029_Principal pal = new Exercise_029_Principal("Jagadeesh", 8608619345l);
         pal.getSname();
         System.out.println("The old name of the Student is:" + pal.getSname());
         pal.setSname("JagadeeshKumar");

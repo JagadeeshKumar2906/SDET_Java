@@ -1,6 +1,6 @@
 package August_2024.EX_100824_EncapsulationExamples;
 
-public class HDFCBankAccount {
+public class Exercise_027_HDFCBankAccount {
 
     //data memebers always private
 
@@ -8,7 +8,7 @@ public class HDFCBankAccount {
     private long balance;
 
     //methods
-    public HDFCBankAccount(long Accno,long bal)
+    public Exercise_027_HDFCBankAccount(long Accno, long bal)
     {
             this.Accno = Accno;
             this.balance = bal;

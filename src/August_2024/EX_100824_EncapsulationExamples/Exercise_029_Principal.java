@@ -1,12 +1,12 @@
 package August_2024.EX_100824_EncapsulationExamples;
 
-public class Principal
+public class Exercise_029_Principal
 {
 
     private String sname;
     private long phno;
 
-    public Principal (String name, long phnos)
+    public Exercise_029_Principal(String name, long phnos)
     {
         this.sname= name;
         this.phno = phnos;
